@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: lauvpadilla@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: lauvpadilla
 github_username: lauvpadilla
 markdown: kramdown
